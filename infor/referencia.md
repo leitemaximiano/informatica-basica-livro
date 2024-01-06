@@ -18,3 +18,4 @@
 [Bases numéricas: Hexadecimal](https://dev.to/womakerscode/bases-numericas-hexadecimal-3ldn)
 
 [Sistema de Numeração Binária](https://brasilescola.uol.com.br/matematica/sistema-numeracao-binaria.htm)
+[O que é o Kernel de um sistema operacional](https://www.significados.com.br/kernel/#:~:text=Kernel%20%C3%A9%20uma%20palavra%20inglesa,tamb%C3%A9m%20de%20compatibilidade%20no%20computador.)
